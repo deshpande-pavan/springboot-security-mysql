@@ -6,7 +6,9 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>Welcome!!
-<a href="/logout">Logout</a>
+<body>
+	Logout Home
+	<br>
+	<a href="/">home</a>
 </body>
 </html>
